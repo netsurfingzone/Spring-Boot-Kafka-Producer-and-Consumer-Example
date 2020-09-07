@@ -4,12 +4,12 @@ https://www.netsurfingzone.com/kafka/spring-boot-kafka-producer-and-consumer-exa
 
 This tutorial covers below points.
 
-How to install apache kafka.
-How to start zookeeper and kafka.
-How to create topic.
-How to configure spring and apache kafka.
-How to create kafka producer to send string and json type messages.
-How to create kafka consumer to receive string and json message.
+1. How to install apache kafka.
+2. How to start zookeeper and kafka.
+3. How to create topic.
+4. How to configure spring and apache kafka.
+5. How to create kafka producer to send string and json type messages.
+6. How to create kafka consumer to receive string and json message.
 
 
 
