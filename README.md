@@ -1,6 +1,6 @@
 # Spring Boot Kafka Producer and Consumer Example
 Spring Boot Kafka Producer and Consumer Example tutorial from scratch.
-https://www.netsurfingzone.com/kafka/spring-boot-kafka-producer-and-consumer-example-step-by-step-guide/
+https://www.javatute.com/kafka/spring-boot-kafka-producer-and-consumer-example-step-by-step-guide/
 
 This tutorial covers below points.
 
